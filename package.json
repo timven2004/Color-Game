@@ -1,0 +1,15 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "A clone of Color Game app introduced in The Web Developer Bootcamp by Colt Steele",
+  "main": "color game.html",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
